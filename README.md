@@ -50,7 +50,7 @@ This project analyzes customer behavior on an e-commerce platform to predict chu
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/banaye/E-commerce-Customer-Churn-Analysis.git
-cd ecommerce-churn-analysis
+cd E-commerce-Customer-Churn-Analysis
 ```
 
 ### 2. Install Dependencies
